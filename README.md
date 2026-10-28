@@ -2,12 +2,6 @@
 
 An AI-powered DataOps dashboard built using **Python, Streamlit, Databricks SQL, and Groq** to monitor data quality, analyze revenue mismatches, investigate anomalies, and generate reports.
 
-## 🌐 Live Demo
-
-**Try the live application here:**
-
-👉 [Agentic DataOps Control Center — Live App](https://agentic-dataops-control-center-hcinjbvs9en5lrxqgn3ztu.streamlit.app/)
-
 ## 📌 Project Overview
 
 The Agentic DataOps Control Center is an interactive dashboard designed to support data quality monitoring and data investigation workflows.
